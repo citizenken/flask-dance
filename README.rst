@@ -20,6 +20,7 @@ popular websites:
 
 Installation
 ============
+This is a test of the pipeline
 
 Just the basics:
 
