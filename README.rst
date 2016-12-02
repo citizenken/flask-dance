@@ -1,8 +1,5 @@
 This is a test
-
-
-fadsfadsfadsfds
-fdafds
+fdafdsafdsafdsa
 
 Flask-Dance |build-status| |coverage-status| |docs|
 ===================================================
