@@ -3,7 +3,17 @@ Change Log
 
 unreleased
 ----------
-Nothing yet.
+nothing yet
+
+0.10.1 (2016-11-21)
+-------------------
+* Fixed ``make_google_blueprint`` to include ``auto_refresh_url`` so that
+  token renewal is automatically handled by ``requests-oauthlib``
+
+0.10.0 (2016-09-27)
+-------------------
+* Added the Azure AD pre-set configuration
+* Improve OAuth 2 token auto-refresh
 
 0.9.0 (2016-07-1)
 -----------------

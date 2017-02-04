@@ -23,6 +23,7 @@ popular websites:
 * Dropbox
 * Meetup
 * Slack
+* Azure AD
 
 Installation
 ============
