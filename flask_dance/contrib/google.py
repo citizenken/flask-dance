@@ -59,7 +59,7 @@ def make_google_blueprint(
         authorization_url_params["access_type"] = "offline"
     if reprompt_consent:
         authorization_url_params["approval_prompt"] = "force"
-    if reprompt_consent:
+    if prompt:
         authorization_url_params["prompt"] = prompt
     google_bp = OAuth2ConsumerBlueprint("google", __name__,
         client_id=client_id,
